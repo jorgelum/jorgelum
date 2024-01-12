@@ -1,6 +1,7 @@
 ## Olá 👋!!! Eu sou o Jorge.
 
-- 🌱 Estou estudando redes neurais 
+- 🎓 Sou graduando de engenharia química pela Universidade Federal de São Paulo (UNIFESP).
+- 🌱 Estou estudando redes neurais. 
 
 
 <div> 
@@ -18,6 +19,7 @@
   <img align="center" alt="Jorge-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
+##  Considere dar uma olhadinha no meu [blog](jormendes.netlify.app).
 ## 
 
  <picture>

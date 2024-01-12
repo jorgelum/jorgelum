@@ -1,7 +1,7 @@
 ### Olá 👋!!! Eu sou o Jorge.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelum)](https://github.com/anuraghazra/github-readme-stats)
+![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

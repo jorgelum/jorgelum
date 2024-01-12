@@ -5,8 +5,8 @@
 
 
 <div> 
-<img height="280em"  src ="https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack&include_all_commits=true"/>
-<img height="280em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&layout=donut-vertical&show_icons=true&theme=moltack"/>  
+<img height="237em"  src ="https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack&include_all_commits=true"/>
+<img height="237em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&layout=donut-vertical&show_icons=true&theme=moltack"/>  
 </div>
 
 <div style="display: inline_block"><br>  

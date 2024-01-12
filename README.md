@@ -1,15 +1,22 @@
-### Olá 👋!!! Eu sou o Jorge.
+## Olá 👋!!! Eu sou o Jorge.
 
-![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack)
+- 🌱 Estou estudando redes neurais 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&hide_progress=true&theme=moltack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+<img height="170em"  src ="https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack"/>
+<img height="170em" width ="250em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&hide_progress=false&theme=moltack"/>  
+</div>
+
+<div style="display: inline_block"><br>  
+  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jorge-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg">
+  <img align="center" alt="Jorge-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rstudio/rstudio-plain.svg">
+<img align="center" alt="Jorge-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="Jorge-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg">
+</div>
+
+
+

@@ -1,7 +1,8 @@
 ### Olá 👋!!! Eu sou o Jorge.
 
-
 ![Jorge GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&hide_progress=true&theme=moltack)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

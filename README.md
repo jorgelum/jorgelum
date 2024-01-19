@@ -5,7 +5,7 @@
 
 
 <div> 
-<img height="200em"  src ="https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack&include_all_commits=true"/>
+<img height="200em" src ="https://github-readme-stats.vercel.app/api?username=jorgelum&show_icons=true&theme=moltack"/>
 <img height="200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelum&layout=donut-vertical&show_icons=true&theme=moltack"/>  
 </div>
 
